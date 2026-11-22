@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hs.png">
+	<!-- Created with Adobe Animate version 24.0.12.3 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hs10000" x="36" y="36" width="139" height="43"/>
+	<SubTexture name="hs20000" x="260" y="36" width="69" height="27"/>
+	<SubTexture name="hs30000" x="36" y="164" width="95" height="23"/>
+</TextureAtlas>

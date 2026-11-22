@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xare.png">
+	<!-- Created with Adobe Animate version 24.0.12.3 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anger0000" x="36" y="36" width="313" height="343"/>
+	<SubTexture name="anger0001" x="434" y="36" width="313" height="343"/>
+	<SubTexture name="anger0002" x="832" y="36" width="313" height="343"/>
+	<SubTexture name="animlook0000" x="1230" y="36" width="313" height="343"/>
+	<SubTexture name="animlook0001" x="1230" y="36" width="313" height="343"/>
+	<SubTexture name="animlook0002" x="1628" y="36" width="313" height="343"/>
+	<SubTexture name="animlook0003" x="1628" y="36" width="313" height="343"/>
+	<SubTexture name="animlook0004" x="36" y="464" width="313" height="343"/>
+	<SubTexture name="animlook0005" x="434" y="464" width="313" height="343"/>
+	<SubTexture name="animlook0006" x="434" y="464" width="313" height="343"/>
+	<SubTexture name="animlook0007" x="832" y="464" width="313" height="343"/>
+	<SubTexture name="lookidle0000" x="832" y="464" width="313" height="343"/>
+	<SubTexture name="lookidle0001" x="832" y="464" width="313" height="343"/>
+	<SubTexture name="lookidle0002" x="1230" y="464" width="313" height="343"/>
+	<SubTexture name="lookidle0003" x="1230" y="464" width="313" height="343"/>
+	<SubTexture name="revert0000" x="832" y="464" width="313" height="343" frameX="-5" frameY="0" frameWidth="313" frameHeight="343"/>
+	<SubTexture name="revert0001" x="832" y="464" width="313" height="343" frameX="-5" frameY="0" frameWidth="313" frameHeight="343"/>
+	<SubTexture name="revert0002" x="1628" y="464" width="318" height="343"/>
+	<SubTexture name="revert0003" x="36" y="892" width="313" height="343" frameX="-5" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="revert0004" x="434" y="892" width="313" height="343" frameX="-5" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="revert0005" x="434" y="892" width="313" height="343" frameX="-5" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="revert0006" x="832" y="892" width="313" height="343" frameX="-5" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="warn0000" x="1230" y="892" width="313" height="343"/>
+	<SubTexture name="warn0001" x="1230" y="892" width="313" height="343"/>
+	<SubTexture name="warn0002" x="1230" y="892" width="313" height="343"/>
+	<SubTexture name="warn0003" x="1230" y="892" width="313" height="343"/>
+	<SubTexture name="warn0004" x="1628" y="892" width="313" height="343"/>
+	<SubTexture name="warn0005" x="1628" y="892" width="313" height="343"/>
+	<SubTexture name="warn0006" x="1628" y="892" width="313" height="343"/>
+	<SubTexture name="warn0007" x="1628" y="892" width="313" height="343"/>
+	<SubTexture name="xidle0000" x="832" y="892" width="313" height="343" frameX="0" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="xidle0001" x="832" y="892" width="313" height="343" frameX="0" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="xidle0002" x="832" y="892" width="313" height="343" frameX="0" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="xidle0003" x="832" y="892" width="313" height="343" frameX="0" frameY="0" frameWidth="318" frameHeight="343"/>
+	<SubTexture name="xidle0004" x="36" y="1320" width="313" height="343"/>
+	<SubTexture name="xidle0005" x="36" y="1320" width="313" height="343"/>
+	<SubTexture name="xidle0006" x="36" y="1320" width="313" height="343"/>
+	<SubTexture name="xidle0007" x="36" y="1320" width="313" height="343"/>
+</TextureAtlas>
